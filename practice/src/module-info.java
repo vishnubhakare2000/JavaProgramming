@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bhaka
+ *
+ */
+module practice {
+}
